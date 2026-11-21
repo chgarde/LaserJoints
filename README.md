@@ -1,3 +1,4 @@
+
 # LaserJoints
 
 Laserjoints is an inkscape extension that helps preparing 3D assemblies from 2D shapes for laser cutting.
@@ -9,7 +10,9 @@ Basic usage workflow :
 4. run "Joints/Create Joints"
 5. a new layer is created containing the prepared shapes.
 
-## Demo
+## Demos
+
+[laserjoints_short_demo.webm](https://github.com/user-attachments/assets/5019127b-f529-43cf-9292-547a6f77035f)
 
 [laserjoints_long_demo.webm](https://github.com/user-attachments/assets/524acbc6-7aa3-4617-91d9-55ff93c6c011)
 
