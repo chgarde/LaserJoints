@@ -11,7 +11,7 @@ Basic usage workflow :
 
 ## Demo
 
-<video src="doc/laserjoints_demo.mkv" controls="controls" style="max-width: 730px;"></video>
+[laserjoints_long_demo.webm](doc/laserjoints_long_demo.webm)
 
 ## Installation
 
