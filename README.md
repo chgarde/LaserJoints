@@ -11,7 +11,7 @@ Basic usage workflow :
 
 ## Demo
 
-![laserjoints_long_demo.webm](doc/laserjoints_long_demo.webm)
+[laserjoints_long_demo.webm](https://github.com/user-attachments/assets/524acbc6-7aa3-4617-91d9-55ff93c6c011)
 
 ## Installation
 
