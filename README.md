@@ -12,7 +12,7 @@ Basic usage workflow :
 
 ## Demos
 
-[laserjoints_short_demo.webm](https://github.com/user-attachments/assets/5019127b-f529-43cf-9292-547a6f77035f)
+<img width="1222" height="714" alt="laserjoints_short_demo" src="https://github.com/user-attachments/assets/4c79b569-e26c-4347-920f-03b69b08341b" />
 
 [laserjoints_long_demo.webm](https://github.com/user-attachments/assets/524acbc6-7aa3-4617-91d9-55ff93c6c011)
 
