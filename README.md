@@ -11,7 +11,7 @@ Basic usage workflow :
 
 ## Demo
 
-[laserjoints_long_demo.webm](doc/laserjoints_long_demo.webm)
+![laserjoints_long_demo.webm](doc/laserjoints_long_demo.webm)
 
 ## Installation
 
