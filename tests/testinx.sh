@@ -12,7 +12,7 @@
 # EXTENSION="org.inkscape.color.black_and_white" # matches the <id> of the INX file (replace _ with -)
 # WINDOW_NAME="Black and White" # matches the <Name> of the INX file
 EXTENSION=org.inkscape.filter.laserjoints # matches the <id> of the INX file (replace _ with -)
-WINDOW_NAME=LaserJoint # matches the <Name> of the INX file
+WINDOW_NAME=LaserJoints # matches the <Name> of the INX file
 
 EXTENSION=${EXTENSION//_/-}
 f=/tmp/inx_screnshot.png
