@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="290mm"
+   viewBox="0 0 500 290"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   sodipodi:docname="15_start_points.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.87325"
+     inkscape:cx="175.36367"
+     inkscape:cy="230.08141"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path10"
+       style="fill:none;fill-opacity:0.678431;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 30 105 v -30 h 30 v 30 z"
+       inkscape:tile-x0="30"
+       inkscape:tile-y0="30"
+       inkscape:label="StartBottomLeft" />
+    <path
+       id="StartBottomLeft"
+       style="fill:none;fill-opacity:0.678431;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 105 105 h -30 v -30 h 30 v 30 Z"
+       inkscape:tile-x0="30"
+       inkscape:tile-y0="30"
+       inkscape:label="StartBottomRight" />
+    <path
+       id="StartTopRight"
+       style="fill:none;fill-opacity:0.678431;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 105 30 v 30 h -30 v -30 Z"
+       inkscape:tile-x0="30"
+       inkscape:tile-y0="30" />
+    <path
+       id="StartTopLeft"
+       style="fill:none;fill-opacity:0.678431;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 30,30 H 60 V 60 H 30 Z"
+       inkscape:tile-cx="45"
+       inkscape:tile-cy="45"
+       inkscape:tile-w="30"
+       inkscape:tile-h="30"
+       inkscape:tile-x0="30"
+       inkscape:tile-y0="30" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="laserFlags"
+     id="laserFlags"
+     style="display:inline">
+    <g
+       id="L1F01"
+       class="laserFlag"
+       transform="translate(62.5, 42.5)"
+       style="opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect121" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle50"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text121">F01</text>
+    </g>
+    <g
+       id="L1F01-8"
+       class="laserFlag"
+       transform="translate(42.6016, 60.5114)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect50-79" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle50-2"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text51-0">F01</text>
+    </g>
+    <g
+       id="L1F01-3"
+       class="laserFlag"
+       transform="translate(27.9893, 43.5859)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect50-75" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle50-9"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text51-2">F01</text>
+    </g>
+    <g
+       id="L1F01-6"
+       class="laserFlag"
+       transform="translate(45, 27.5)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect50-7" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle50-5"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text51-3">F01</text>
+    </g>
+    <g
+       id="L1F02"
+       class="laserFlag"
+       transform="translate(107.397, 42.5)"
+       style="opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect122" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle53"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text122">F02</text>
+    </g>
+    <g
+       id="L1F02-6"
+       class="laserFlag"
+       transform="translate(90, 27.5)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect53-2" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle53-9"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text54-1">F02</text>
+    </g>
+    <g
+       id="L1F02-6-8"
+       class="laserFlag"
+       transform="translate(73.3417, 47.5)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect53-2-9" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle53-9-7"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text54-1-3">F02</text>
+    </g>
+    <g
+       id="L1F03"
+       class="laserFlag"
+       transform="translate(62.5, 91.6526)"
+       style="opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect123" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle56"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text123">F03</text>
+    </g>
+    <g
+       id="L1F03-3"
+       class="laserFlag"
+       transform="translate(45, 72.4)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect56-7" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle56-4"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text57-5">F03</text>
+    </g>
+    <g
+       id="L1F03-5"
+       class="laserFlag"
+       transform="translate(27.5, 87.4)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect56-4" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle56-7"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text57-4">F03</text>
+    </g>
+    <g
+       id="L1F03-30"
+       class="laserFlag"
+       transform="translate(45, 107.866)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect56-78" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle56-6"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text57-8">F03</text>
+    </g>
+    <g
+       id="L1F04"
+       class="laserFlag"
+       transform="translate(107.5, 90)"
+       style="opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect124" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle59"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text124">F04</text>
+    </g>
+    <g
+       id="L1F04-4"
+       class="laserFlag"
+       transform="translate(90, 106.78)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect59-7" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle59-8"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text60-4">F04</text>
+    </g>
+    <g
+       id="L1F04-7"
+       class="laserFlag"
+       transform="translate(90, 72.5)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect59-0" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle59-9"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text60-3">F04</text>
+    </g>
+    <g
+       id="L1F02-6-1"
+       class="laserFlag"
+       transform="translate(90, 62.5)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect53-2-2" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle53-9-9"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text54-1-31">F02</text>
+    </g>
+    <g
+       id="L1F04-03"
+       class="laserFlag"
+       transform="translate(73.3417, 84.0547)"
+       style="display:inline;opacity:0.75">
+      <rect
+         x="-2.5"
+         y="-2.5"
+         width="5"
+         height="5"
+         style="fill:none;stroke:none"
+         id="rect59-61" />
+      <circle
+         r="5"
+         style="fill:#99c1f1"
+         id="circle59-0"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text60-63">F04</text>
+    </g>
+  </g>
+</svg>

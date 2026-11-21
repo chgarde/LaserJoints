@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="300mm"
+   viewBox="0 0 500 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   sodipodi:docname="51_random.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.4683125"
+     inkscape:cx="1096.4901"
+     inkscape:cy="730.2816"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="matrix(0.673754 0.738956 -0.738956 0.673754 255.483 -153.46)">
+      <path
+         id="rect53"
+         style="fill:#008080;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+         inkscape:transform-center-x="-61.580134"
+         inkscape:transform-center-y="-17.360233"
+         d="m 236.85146,88.874011 48.18544,76.648019 -38.90827,77.18895 -69.49154,-35.02827 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="C2F02"
+       class="laserFlag"
+       transform="translate(233.626, 154.054)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle28"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text28">F02</text>
+    </g>
+    <path
+       id="rect53-5"
+       style="fill:#008080;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       inkscape:transform-center-x="-61.580134"
+       inkscape:transform-center-y="-17.360233"
+       d="M 126.22138,31.769621 195.7129,66.797908 156.80462,143.98685 87.313095,108.95856 Z" />
+    <g
+       id="C2F03"
+       class="laserFlag"
+       transform="translate(126.317, 126.689)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle8"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text8">F03</text>
+    </g>
+    <path
+       id="rect1"
+       style="fill:#d4ff2a;stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="M 375.14124,112.88882 H 471.7514 V 271.75141 H 375.14124 Z" />
+    <g
+       id="C1F02"
+       class="laserFlag"
+       transform="translate(416.942, 110.717)">
+      <circle
+         r="10"
+         style="fill:#ff0000"
+         id="circle7"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text7">F02</text>
+    </g>
+  </g>
+</svg>

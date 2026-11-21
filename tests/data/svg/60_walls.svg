@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="290mm"
+   viewBox="0 0 500 290"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   sodipodi:docname="60_walls.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.23415625"
+     inkscape:cx="450.55385"
+     inkscape:cy="619.24463"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="text1"
+       style="font-weight:bold;font-size:205.485px;line-height:0;font-family:&quot;DejaVu Sans Mono&quot;;-inkscape-font-specification:&quot;DejaVu Sans Mono, Bold&quot;;text-align:center;letter-spacing:0px;text-anchor:middle;opacity:0.53;fill:#ffcc00;stroke:#000000;stroke-width:0.499999;paint-order:stroke fill markers"
+       d="M 47.6254 43.4115 L 47.6254 81.5248 H 60.6421 c 7.55406 0 12.9545 -1.46688 16.2009 -4.40111 c 3.3088 -2.99665 4.963 -7.89744 4.963 -14.7023 c 0 -6.8049 -1.62306 -11.6746 -4.86943 -14.6088 c -3.24637 -2.93422 -8.67797 -4.4011 -16.2945 -4.4011 Z m -27.6254 -23.2243 l 39.8931 -1.06581e-14 c 17.9799 0 30.8714 3.18432 38.6752 9.55221 c 7.86622 6.36789 11.7993 16.7309 11.7993 31.0899 c 0 9.61426 -2.34069 17.262 -7.02296 22.9431 c -4.68227 5.68116 -11.425 9.08393 -20.2277 10.2077 c 2.74693 0.561875 5.11923 1.87258 7.117 3.93278 c 2.0602 1.99777 4.55755 5.93086 7.49177 11.7993 L 123.01 160 H 92.6686 L 75.8128 124.696 c -0.499445 -0.99888 -1.15528 -2.37236 -1.96687 -4.1204 c -4.932 -10.5507 -10.7377 -15.8261 -17.4178 -15.8261 h -8.8027 v 55.2509 h -27.6254 z" />
+    <path
+       id="path29"
+       style="font-weight:bold;font-size:205.485px;line-height:0;font-family:&quot;DejaVu Sans Mono&quot;;-inkscape-font-specification:&quot;DejaVu Sans Mono, Bold&quot;;text-align:center;letter-spacing:0px;text-anchor:middle;opacity:0.53;fill:#ffcc00;stroke:#000000;stroke-width:0.499999;paint-order:stroke fill markers"
+       d="m 385.403 96.5083 l 0 41.3911 h 18.3544 c 8.80263 0 14.9519 -1.49802 18.448 -4.49467 c 3.55851 -2.99665 5.33819 -8.20978 5.33819 -15.639 c 0 -7.55405 -1.84193 -12.9856 -5.52533 -16.2945 c -3.68339 -3.30881 -9.77031 -4.963 -18.2608 -4.963 z m 0 -54.5018 l 0 32.4953 h 18.3544 c 6.99215 0 11.9552 -1.24891 14.8895 -3.74612 c 2.99665 -2.49721 4.49512 -6.61761 4.49512 -12.3612 c 0 -5.74359 -1.52964 -9.89513 -4.58873 -12.4548 c -2.99665 -2.62207 -7.92857 -3.93326 -14.7958 -3.93326 z m -26.6888 -22.0065 L 403.757 20 C 419.302 20 430.977 22.9654 438.781 28.8963 c 7.86631 5.86845 11.7993 14.6712 11.7993 26.4081 c 0 8.98996 -2.31 16.0135 -6.92981 21.0703 c -4.6199 5.05685 -11.3938 7.9911 -20.3213 8.80269 c 10.6756 1.06132 18.6979 4.65092 24.067 10.7691 c 5.43144 6.11817 8.14725 14.6713 8.14725 25.659 c 0 13.4849 -4.05813 23.2549 -12.1741 29.3106 c -8.11598 6.05573 -21.3198 9.08388 -39.6118 9.08388 h -45.0432 Z" />
+    <path
+       id="path18"
+       style="font-weight:bold;font-size:205.485px;line-height:0;font-family:&quot;DejaVu Sans Mono&quot;;-inkscape-font-specification:&quot;DejaVu Sans Mono, Bold&quot;;text-align:center;letter-spacing:0px;text-anchor:middle;opacity:0.53;fill:#ffcc00;stroke:#000000;stroke-width:0.499999;paint-order:stroke fill markers"
+       d="M 275.308 43.4115 l 0 41.0164 h 11.331 c 9.05239 0 15.3889 -1.52915 19.0099 -4.58824 c 3.6834 -3.05908 5.52538 -8.36564 5.52538 -15.9197 c 0 -7.55406 -1.84198 -12.8606 -5.52538 -15.9197 c -3.62096 -3.05908 -9.95748 -4.58872 -19.0099 -4.58872 z m -27.6254 -23.2243 L 285.609 20.1871 C 304.899 20.1871 318.759 23.6211 327.187 30.4884 c 8.49052 6.86733 12.7355 18.0112 12.7355 33.4315 c 0 15.4203 -4.24495 26.5637 -12.7355 33.431 c -8.42808 6.86733 -22.2878 10.3012 -41.5787 10.3012 h -10.3008 v 52.3478 h -27.6254 Z" />
+    <path
+       style="font-weight:bold;font-size:205.485px;line-height:0;font-family:&quot;DejaVu Sans Mono&quot;;-inkscape-font-specification:&quot;DejaVu Sans Mono, Bold&quot;;text-align:center;letter-spacing:0px;text-anchor:middle;opacity:0.53;fill:#ffcc00;stroke:#000000;stroke-width:0.499999;paint-order:stroke fill markers"
+       d="M 228.89128,160 H 141.80104 V 20.187394 h 87.09024 v 24.347805 h -59.46484 v 30.153828 h 53.84611 v 24.34781 H 169.42644 V 135.6522 h 59.46484 z"
+       id="path16" />
+  </g>
+</svg>

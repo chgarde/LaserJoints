@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+    <name>LaserJoints</name>
+    <id>org.inkscape.filter.laserjoints</id>
+
+    <param name="tab" type="notebook">
+
+        <page name="flags" _gui-text="Flags">
+            <vbox>
+                <label>Flag Collections</label>
+                <label>Lines _______ min length</label>
+                <hbox>
+                    <param name="flagsL1color" type="color" appearance="colorbutton" gui-text="S1">0x99c1f1ff</param>
+                    <param name="flagsL1minLength" type="int" min="0" max="512" gui-text="">15</param>
+                </hbox>
+                <hbox>
+                    <param name="flagsL2color" type="color" appearance="colorbutton" gui-text="S2">0x3584e4ff</param>
+                    <param name="flagsL2minLength" type="int" min="0" max="512" gui-text="">40</param>
+                </hbox>
+                <hbox>
+                    <param name="flagsL3color" type="color" appearance="colorbutton" gui-text="S3">0x0000ffff</param>
+                    <param name="flagsL3minLength" type="int" min="0" max="512" gui-text="">60</param>
+                </hbox>
+                <label>Curves ______ min length</label>
+                <hbox>
+                    <param name="flagsC1color" type="color" appearance="colorbutton" gui-text="C1">0xff98ffff</param>
+                    <param name="flagsC1minLength" type="int" min="0" max="20000" gui-text="">15</param>
+                </hbox>
+                <hbox>
+                    <param name="flagsC2color" type="color" appearance="colorbutton" gui-text="C2">0xff00ffff</param>
+                    <param name="flagsC2minLength" type="int" min="0" max="20000" gui-text="">40</param>
+                </hbox>
+                <hbox>
+                    <param name="flagsC3color" type="color" appearance="colorbutton" gui-text="C3">0x800080ff</param>
+                    <param name="flagsC3minLength" type="int" min="0" max="20000" gui-text="">60</param>
+                </hbox>
+                <spacer size="5" />
+                <separator />
+                <spacer size="5" />
+
+                <param name="flagCount" type="int" min="0" max="100" _gui-text="Flag count">10</param>
+                <param name="flagDiameter" type="float" min="0.0" max="10.0" precision="0" _gui-text="Flag diameter">10</param>
+                <param name="flagSide" type="optiongroup" _gui-text="Flags side for autocreate">
+                    <option value="inside">Inside</option>
+                    <option value="outside">Outside</option>
+                </param>
+
+            </vbox>
+            <spacer size="5" />
+            <separator />
+            <spacer size="5" />
+            <param name="flags_action" type="optiongroup" gui-text="Action :">
+                <option value="create">Create flags</option>
+                <option value="autocreate" default="true">Create flags auto</option>
+            </param>
+
+        </page>
+
+
+        <page name="joints" _gui-text="Joints">
+            <vbox>
+                <hbox>
+                    <label>Col</label>
+                    <label>Surrounding</label>
+                    <spacer size="20" />
+                    <label>Finger Size</label>
+                    <spacer size="expand" />
+                    <label>Space Size</label>
+                </hbox>
+                <hbox>
+                    <label>L1</label>
+                    <param name="flagsL1surroundingspaces" type="int" min="0" max="512" _gui-text="">0</param>
+                    <param name="flagsL1finger" type="int" min="1" max="512" _gui-text="">1</param>
+                    <param name="flagsL1space" type="int" min="1" max="512" _gui-text="">2</param>
+                </hbox>
+                <hbox>
+                    <label>L2</label>
+                    <param name="flagsL2surroundingspaces" type="int" min="0" max="512" _gui-text="">1</param>
+                    <param name="flagsL2finger" type="int" min="1" max="512" _gui-text="">2</param>
+                    <param name="flagsL2space" type="int" min="1" max="512" _gui-text="">2</param>
+                </hbox>
+                <hbox>
+                    <label>L3</label>
+                    <param name="flagsL3surroundingspaces" type="int" min="0" max="512" _gui-text="">1</param>
+                    <param name="flagsL3finger" type="int" min="1" max="512" _gui-text="">3</param>
+                    <param name="flagsL3space" type="int" min="1" max="512" _gui-text="">3</param>
+                </hbox>
+                <label>Curves</label>
+                <hbox>
+                    <label>C1</label>
+                    <param name="flagsC1surroundingspaces" type="int" min="0" max="512" _gui-text="">0</param>
+                    <param name="flagsC1finger" type="int" min="1" max="512" _gui-text="">1</param>
+                    <param name="flagsC1space" type="int" min="1" max="512" _gui-text="">3</param>
+                </hbox>
+                <hbox>
+                    <label>C2</label>
+                    <param name="flagsC2surroundingspaces" type="int" min="0" max="512" _gui-text="">1</param>
+                    <param name="flagsC2finger" type="int" min="1" max="512" _gui-text="">2</param>
+                    <param name="flagsC2space" type="int" min="1" max="512" _gui-text="">4</param>
+                </hbox>
+                <hbox>
+                    <label>C3</label>
+                    <param name="flagsC3surroundingspaces" type="int" min="0" max="512" _gui-text="">2</param>
+                    <param name="flagsC3finger" type="int" min="1" max="512" _gui-text="">2</param>
+                    <param name="flagsC3space" type="int" min="1" max="512" _gui-text="">6</param>
+                </hbox>
+            </vbox>
+            <spacer size="5" />
+            <separator />
+
+            <hbox>
+                <vbox>
+                    <param name="thickness" type="float" min="0.0" max="1000.0" precision="2" _gui-text="Material thickness:">3.0</param>
+                    <param name="kFactor" type="float" min="0.0" max="1.0" precision="2" _gui-text="Material K-Factor:">0.5</param>
+                    <param name="kerf" type="float" min="-10.0" max="10.0" precision="2" _gui-text="Laser kerf:">0.10</param>
+                </vbox>
+                <vbox>
+                    <spacer size="expand" />
+                </vbox>
+            </hbox>
+
+            <spacer size="5" />
+            <separator />
+            <spacer size="5" />
+            <param name="joints_action" type="optiongroup" gui-text="Action :">
+                <option value="create">Create joints</option>
+            </param>
+        </page>
+        <page name="walls" _gui-text="Walls">
+            <param name="walls_height" type="float" min="0.0" max="1000.0" precision="3" _gui-text="Wall Height:">50.0</param>
+            <param name="walls_join_both_sides" type="bool" gui-text="Wall joins on both sides">true</param>
+            <param name="walls_action" type="optiongroup" gui-text="Action :">
+                <option value="create">Create walls</option>
+            </param>
+
+        </page>
+        <page name="tweaks" _gui-text="Tweaks">
+            <param name="tweaks_action" type="optiongroup" gui-text="Action :">
+                <option value="tweaks_swapMF">Swap males / females flags</option>
+                <option value="tweaks_inside">Move flags inside</option>
+                <option value="tweaks_outside">Move flags outside</option>
+                <option value="tweaks_demo">Create demo</option>
+            </param>
+
+        </page>
+    </param>
+
+    <effect needs-live-preview="true">
+        <object-type>path</object-type>
+        <effects-menu>
+            <submenu _name="Render" />
+        </effects-menu>
+    </effect>
+    <script>
+        <command reldir="extensions" interpreter="python">laserjoints.py</command>
+    </script>
+</inkscape-extension>

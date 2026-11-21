@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="300mm"
+   viewBox="0 0 500 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   sodipodi:docname="50_random.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.23415625"
+     inkscape:cx="589.35005"
+     inkscape:cy="1340.9849"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="M 38.983051,37.853107 H 188.98305 V 107.85311 H 38.983051 Z" />
+    <path
+       id="rect1-6"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="m 403.97131,66.016808 h 70 V 216.01681 h -70 z" />
+    <path
+       id="rect2"
+       style="fill:#ff8080;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="m 19.209045,211.29944 h 63.841809 v 48.58757 H 19.209045 Z" />
+    <g
+       id="g1"
+       transform="matrix(0.882259 0.470764 -0.470764 0.882259 126.993 -34.4181)">
+      <path
+         id="rect2-56"
+         style="fill:#ff8080;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+         d="m 100.38245,212.37511 h 63.8418 v 48.58757 h -63.8418 z" />
+    </g>
+    <path
+       id="rect2-5"
+       style="fill:#ff8080;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="M 18.911192,141.86896 H 82.753 v 48.58757 H 18.911192 Z" />
+    <path
+       style="fill:#ff8080;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="m 245.19774,170.62147 69.49153,35.02825 c 26.5777,32.50448 22.57324,58.45564 -14.1243,77.40114 l -88.70056,9.03954 -12.99435,-115.25424 z"
+       id="path3"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="rect53"
+       style="fill:#008080;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       inkscape:transform-center-x="-61.580134"
+       inkscape:transform-center-y="-17.360233"
+       d="M 302.47717,75.332385 371.9687,110.36065 333.06043,187.54961 263.5689,152.52133 Z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="m 242.37288,34.572818 h 92.65536"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="m 355.03047,4.7939443 86.6556,32.7997117"
+       id="path1-6" />
+    <g
+       id="g45"
+       transform="matrix(0.966819 -0.255464 0.255464 0.966819 -53.3441 114.647)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+         d="m 360.15294,268.21398 109.01615,-11.0842"
+         id="path1-5" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="laserflags"
+     id="laserflags">
+    <g
+       id="C1S01"
+       class="laserFlag"
+       transform="translate(288.701, 34.5728)">
+      <circle
+         r="10"
+         style="fill:#ff0000"
+         id="circle1"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text1">S01</text>
+    </g>
+    <g
+       id="C2S01"
+       class="laserFlag"
+       transform="translate(398.358, 21.1938)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle22"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text22">S01</text>
+    </g>
+    <g
+       id="C3S01"
+       class="laserFlag"
+       transform="translate(414.661, 262.672)">
+      <circle
+         r="10"
+         style="fill:#0000ff"
+         id="circle33"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text33">S01</text>
+    </g>
+    <g
+       id="C2F02"
+       class="laserFlag"
+       transform="translate(298.315, 170.035)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle28"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text28">F02</text>
+    </g>
+    <g
+       id="C2M03"
+       class="laserFlag"
+       transform="translate(45.6215, 259.937)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle5"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text5">M03</text>
+    </g>
+    <g
+       id="C2F03"
+       class="laserFlag"
+       transform="translate(143.74, 215.235)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle8"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text8">F03</text>
+    </g>
+    <g
+       id="C2M04"
+       class="laserFlag"
+       transform="translate(19.209, 235.593)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle10"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text10">M04</text>
+    </g>
+    <g
+       id="C2F04"
+       class="laserFlag"
+       transform="translate(161.627, 248.814)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle11"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text11">F04</text>
+    </g>
+    <g
+       id="C2M05"
+       class="laserFlag"
+       transform="translate(61.1299, 211.299)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle13"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text13">M05</text>
+    </g>
+    <g
+       id="C2F05"
+       class="laserFlag"
+       transform="translate(120.867, 258.102)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle14"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text14">F05</text>
+    </g>
+    <g
+       id="C1M01"
+       class="laserFlag"
+       transform="translate(107.486, 38.2486)">
+      <circle
+         r="10"
+         style="fill:#ff0000"
+         id="circle3"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text3">M01</text>
+    </g>
+    <g
+       id="C1F01"
+       class="laserFlag"
+       transform="translate(404.661, 121.441)">
+      <circle
+         r="10"
+         style="fill:#ff0000"
+         id="circle4"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text4">F01</text>
+    </g>
+    <g
+       id="C1M02"
+       class="laserFlag"
+       transform="translate(187.853, 73.2768)">
+      <circle
+         r="10"
+         style="fill:#ff0000"
+         id="circle6"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text6">M02</text>
+    </g>
+    <g
+       id="C1F02"
+       class="laserFlag"
+       transform="translate(443.22, 64.9435)">
+      <circle
+         r="10"
+         style="fill:#ff0000"
+         id="circle7"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text7">F02</text>
+    </g>
+    <g
+       id="C2M01"
+       class="laserFlag"
+       transform="translate(79.2373, 238.814)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle24"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text24">M01</text>
+    </g>
+    <g
+       id="C2F01"
+       class="laserFlag"
+       transform="translate(104.141, 221.642)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle25"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text25">F01</text>
+    </g>
+    <g
+       id="C2M02"
+       class="laserFlag"
+       transform="translate(281.073, 193.348)">
+      <circle
+         r="10"
+         style="fill:#00ff00"
+         id="circle27"
+         cx="0"
+         cy="0" />
+      <text
+         style="font-weight:bold;font-size:8px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"
+         id="text27">M02</text>
+    </g>
+  </g>
+</svg>

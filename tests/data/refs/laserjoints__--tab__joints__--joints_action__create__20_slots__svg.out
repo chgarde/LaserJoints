@@ -1,0 +1,110 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) --><svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:laser="https://github.com/chgarde/laserjoints" width="500mm" height="290mm" viewBox="0 0 500 290" version="1.1" id="svg5" inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)" sodipodi:docname="20_slots.svg">
+  <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" showgrid="true" inkscape:zoom="0.16557347" inkscape:cx="896.8828" inkscape:cy="954.25914" inkscape:window-width="1920" inkscape:window-height="1031" inkscape:window-x="0" inkscape:window-y="25" inkscape:window-maximized="1" inkscape:current-layer="laserFlags"/>
+  <defs id="defs2"/>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <path style="opacity:1;fill:none;fill-opacity:0.678431;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" d="M 10,10 H 59.999995" id="path1"/>
+    <path style="fill:none;fill-opacity:0.678431;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" d="m 80,10 h 50" id="path1-7"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="laserConfig" id="laserConfig" style="display:none">
+    <g inkscape:label="config1" id="config1">
+      <g inkscape:label="flagsConfig" id="g187">
+        <rect x="10" y="10" width="70" height="20" fill="lightgray" stroke="black" id="rect153"/>
+        <text x="15" y="25" id="text153">color</text>
+        <rect x="80" y="10" width="70" height="20" fill="lightgray" stroke="black" id="rect154"/>
+        <text x="85" y="25" id="text154">min length</text>
+        <rect x="150" y="10" width="70" height="20" fill="lightgray" stroke="black" id="rect155"/>
+        <text x="155" y="25" id="text155">surrounding space</text>
+        <rect x="220" y="10" width="70" height="20" fill="lightgray" stroke="black" id="rect156"/>
+        <text x="225" y="25" id="text156">finger size</text>
+        <rect x="290" y="10" width="70" height="20" fill="lightgray" stroke="black" id="rect157"/>
+        <text x="295" y="25" id="text157">space size</text>
+        <rect x="10" y="30" width="70" height="20" fill="white" stroke="black" id="rect158"/>
+        <text x="15" y="45" id="text158">#99c1f1</text>
+        <rect x="80" y="30" width="70" height="20" fill="white" stroke="black" id="rect159"/>
+        <text x="85" y="45" id="text159">8</text>
+        <rect x="150" y="30" width="70" height="20" fill="white" stroke="black" id="rect160"/>
+        <text x="155" y="45" id="text160">1</text>
+        <rect x="220" y="30" width="70" height="20" fill="white" stroke="black" id="rect161"/>
+        <text x="225" y="45" id="text161">1</text>
+        <rect x="290" y="30" width="70" height="20" fill="white" stroke="black" id="rect162"/>
+        <text x="295" y="45" id="text162">1</text>
+        <rect x="10" y="50" width="70" height="20" fill="white" stroke="black" id="rect163"/>
+        <text x="15" y="65" id="text163">#3584e4</text>
+        <rect x="80" y="50" width="70" height="20" fill="white" stroke="black" id="rect164"/>
+        <text x="85" y="65" id="text164">40</text>
+        <rect x="150" y="50" width="70" height="20" fill="white" stroke="black" id="rect165"/>
+        <text x="155" y="65" id="text165">1</text>
+        <rect x="220" y="50" width="70" height="20" fill="white" stroke="black" id="rect166"/>
+        <text x="225" y="65" id="text166">2</text>
+        <rect x="290" y="50" width="70" height="20" fill="white" stroke="black" id="rect167"/>
+        <text x="295" y="65" id="text167">2</text>
+        <rect x="10" y="70" width="70" height="20" fill="white" stroke="black" id="rect168"/>
+        <text x="15" y="85" id="text168">#0000ff</text>
+        <rect x="80" y="70" width="70" height="20" fill="white" stroke="black" id="rect169"/>
+        <text x="85" y="85" id="text169">70</text>
+        <rect x="150" y="70" width="70" height="20" fill="white" stroke="black" id="rect170"/>
+        <text x="155" y="85" id="text170">0</text>
+        <rect x="220" y="70" width="70" height="20" fill="white" stroke="black" id="rect171"/>
+        <text x="225" y="85" id="text171">2</text>
+        <rect x="290" y="70" width="70" height="20" fill="white" stroke="black" id="rect172"/>
+        <text x="295" y="85" id="text172">3</text>
+        <rect x="10" y="90" width="70" height="20" fill="white" stroke="black" id="rect173"/>
+        <text x="15" y="105" id="text173">#ff98ff</text>
+        <rect x="80" y="90" width="70" height="20" fill="white" stroke="black" id="rect174"/>
+        <text x="85" y="105" id="text174">15</text>
+        <rect x="150" y="90" width="70" height="20" fill="white" stroke="black" id="rect175"/>
+        <text x="155" y="105" id="text175">0</text>
+        <rect x="220" y="90" width="70" height="20" fill="white" stroke="black" id="rect176"/>
+        <text x="225" y="105" id="text176">1</text>
+        <rect x="290" y="90" width="70" height="20" fill="white" stroke="black" id="rect177"/>
+        <text x="295" y="105" id="text177">3</text>
+        <rect x="10" y="110" width="70" height="20" fill="white" stroke="black" id="rect178"/>
+        <text x="15" y="125" id="text178">#ff00ff</text>
+        <rect x="80" y="110" width="70" height="20" fill="white" stroke="black" id="rect179"/>
+        <text x="85" y="125" id="text179">40</text>
+        <rect x="150" y="110" width="70" height="20" fill="white" stroke="black" id="rect180"/>
+        <text x="155" y="125" id="text180">1</text>
+        <rect x="220" y="110" width="70" height="20" fill="white" stroke="black" id="rect181"/>
+        <text x="225" y="125" id="text181">2</text>
+        <rect x="290" y="110" width="70" height="20" fill="white" stroke="black" id="rect182"/>
+        <text x="295" y="125" id="text182">4</text>
+        <rect x="10" y="130" width="70" height="20" fill="white" stroke="black" id="rect183"/>
+        <text x="15" y="145" id="text183">#800080</text>
+        <rect x="80" y="130" width="70" height="20" fill="white" stroke="black" id="rect184"/>
+        <text x="85" y="145" id="text184">60</text>
+        <rect x="150" y="130" width="70" height="20" fill="white" stroke="black" id="rect185"/>
+        <text x="155" y="145" id="text185">2</text>
+        <rect x="220" y="130" width="70" height="20" fill="white" stroke="black" id="rect186"/>
+        <text x="225" y="145" id="text186">2</text>
+        <rect x="290" y="130" width="70" height="20" fill="white" stroke="black" id="rect187"/>
+        <text x="295" y="145" id="text187">6</text>
+      </g>
+      <g id="g194">
+        <text x="10" y="170" id="text188">flagCount: 8</text>
+        <text x="10" y="182" id="text189">flagDiameter: 10.0</text>
+        <text x="10" y="194" id="text190">kFactor: 0.5</text>
+        <text x="10" y="206" id="text191">kerf: 0.1</text>
+        <text x="10" y="218" id="text192">thickness: 3.7</text>
+        <text x="10" y="230" id="text193">walls_height: 20.0</text>
+        <text x="10" y="242" id="text194">walls_join_both_sides: True</text>
+      </g>
+    </g>
+  <g inkscape:label="config2" id="config2"><g inkscape:label="flagsConfig"><rect x="10" y="10" width="70" height="20" fill="lightgray" stroke="black"/><text x="15" y="25">color</text><rect x="80" y="10" width="70" height="20" fill="lightgray" stroke="black"/><text x="85" y="25">min length</text><rect x="150" y="10" width="70" height="20" fill="lightgray" stroke="black"/><text x="155" y="25">surrounding space</text><rect x="220" y="10" width="70" height="20" fill="lightgray" stroke="black"/><text x="225" y="25">finger size</text><rect x="290" y="10" width="70" height="20" fill="lightgray" stroke="black"/><text x="295" y="25">space size</text><rect x="10" y="30" width="70" height="20" fill="white" stroke="black"/><text x="15" y="45">#ff0000</text><rect x="80" y="30" width="70" height="20" fill="white" stroke="black"/><text x="85" y="45">15</text><rect x="150" y="30" width="70" height="20" fill="white" stroke="black"/><text x="155" y="45">0</text><rect x="220" y="30" width="70" height="20" fill="white" stroke="black"/><text x="225" y="45">1</text><rect x="290" y="30" width="70" height="20" fill="white" stroke="black"/><text x="295" y="45">2</text><rect x="10" y="50" width="70" height="20" fill="white" stroke="black"/><text x="15" y="65">#00ff00</text><rect x="80" y="50" width="70" height="20" fill="white" stroke="black"/><text x="85" y="65">40</text><rect x="150" y="50" width="70" height="20" fill="white" stroke="black"/><text x="155" y="65">1</text><rect x="220" y="50" width="70" height="20" fill="white" stroke="black"/><text x="225" y="65">2</text><rect x="290" y="50" width="70" height="20" fill="white" stroke="black"/><text x="295" y="65">2</text><rect x="10" y="70" width="70" height="20" fill="white" stroke="black"/><text x="15" y="85">#0000ff</text><rect x="80" y="70" width="70" height="20" fill="white" stroke="black"/><text x="85" y="85">60</text><rect x="150" y="70" width="70" height="20" fill="white" stroke="black"/><text x="155" y="85">1</text><rect x="220" y="70" width="70" height="20" fill="white" stroke="black"/><text x="225" y="85">3</text><rect x="290" y="70" width="70" height="20" fill="white" stroke="black"/><text x="295" y="85">3</text><rect x="10" y="90" width="70" height="20" fill="white" stroke="black"/><text x="15" y="105">#ff98ff</text><rect x="80" y="90" width="70" height="20" fill="white" stroke="black"/><text x="85" y="105">15</text><rect x="150" y="90" width="70" height="20" fill="white" stroke="black"/><text x="155" y="105">0</text><rect x="220" y="90" width="70" height="20" fill="white" stroke="black"/><text x="225" y="105">1</text><rect x="290" y="90" width="70" height="20" fill="white" stroke="black"/><text x="295" y="105">3</text><rect x="10" y="110" width="70" height="20" fill="white" stroke="black"/><text x="15" y="125">#ff00ff</text><rect x="80" y="110" width="70" height="20" fill="white" stroke="black"/><text x="85" y="125">40</text><rect x="150" y="110" width="70" height="20" fill="white" stroke="black"/><text x="155" y="125">1</text><rect x="220" y="110" width="70" height="20" fill="white" stroke="black"/><text x="225" y="125">2</text><rect x="290" y="110" width="70" height="20" fill="white" stroke="black"/><text x="295" y="125">4</text><rect x="10" y="130" width="70" height="20" fill="white" stroke="black"/><text x="15" y="145">#800080</text><rect x="80" y="130" width="70" height="20" fill="white" stroke="black"/><text x="85" y="145">60</text><rect x="150" y="130" width="70" height="20" fill="white" stroke="black"/><text x="155" y="145">2</text><rect x="220" y="130" width="70" height="20" fill="white" stroke="black"/><text x="225" y="145">2</text><rect x="290" y="130" width="70" height="20" fill="white" stroke="black"/><text x="295" y="145">6</text></g><g><text x="10" y="170">flagCount: 10</text><text x="10" y="182">flagDiameter: 10.0</text><text x="10" y="194">kFactor: 0.5</text><text x="10" y="206">kerf: 0.1</text><text x="10" y="218">thickness: 3.0</text><text x="10" y="230">walls_height: 50.0</text><text x="10" y="242">walls_join_both_sides: True</text></g></g></g>
+  <g inkscape:groupmode="layer" inkscape:label="laserWalls" id="laserWalls" style="display:none"/>
+  <g inkscape:groupmode="layer" inkscape:label="laserRolls" id="laserRolls" style="display:none"/>
+  <g inkscape:groupmode="layer" inkscape:label="laserHinges" id="laserHinges" style="display:inline"/>
+  <g inkscape:groupmode="layer" inkscape:label="laserFlags" id="laserFlags" style="display:none">
+    <g id="L1S01" class="laserFlag" transform="translate(37.5, 7.5)" style="opacity:0.75">
+      <rect x="-2.5" y="-2.5" width="5" height="5" style="fill:none;stroke:none" id="rect196"/>
+      <circle r="5" style="fill:#99c1f1" id="circle196" cx="0" cy="0"/>
+      <text style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff" id="text197">S01</text>
+    </g>
+    <g id="L1S02" class="laserFlag" transform="translate(102.5, 12.5)" style="opacity:0.75">
+      <rect x="-2.5" y="-2.5" width="5" height="5" style="fill:none;stroke:none" id="rect199"/>
+      <circle r="5" style="fill:#99c1f1" id="circle199" cx="0" cy="0"/>
+      <text style="font-weight:bold;font-size:4px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff" id="text200">S02</text>
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="laserJoints" id="laserJoints" style="display:inline"><path d="M 10 10 M 15.5888 9.95 L 18.4832 9.95 L 18.4832 7.05 L 15.5888 7.05 L 15.5888 9.95 Z M 24.5708 9.95 L 27.4652 9.95 L 27.4652 7.05 L 24.5708 7.05 L 24.5708 9.95 Z M 33.5528 9.95 L 36.4472 9.95 L 36.4472 7.05 L 33.5528 7.05 L 33.5528 9.95 Z M 42.5348 9.95 L 45.4292 9.95 L 45.4292 7.05 L 42.5348 7.05 L 42.5348 9.95 Z M 51.5168 9.95 L 54.4112 9.95 L 54.4112 7.05 L 51.5168 7.05 L 51.5168 9.95 Z" style="fill:none;stroke:black;stroke-width:0.1"/><path d="M 80 10 M 85.489 10.05 L 88.583 10.05 L 88.583 12.95 L 85.489 12.95 L 85.489 10.05 Z M 94.471 10.05 L 97.565 10.05 L 97.565 12.95 L 94.471 12.95 L 94.471 10.05 Z M 103.453 10.05 L 106.547 10.05 L 106.547 12.95 L 103.453 12.95 L 103.453 10.05 Z M 112.435 10.05 L 115.529 10.05 L 115.529 12.95 L 112.435 12.95 L 112.435 10.05 Z M 121.417 10.05 L 124.511 10.05 L 124.511 12.95 L 121.417 12.95 L 121.417 10.05 Z" style="fill:none;stroke:black;stroke-width:0.1"/></g>
+  <g inkscape:groupmode="layer" inkscape:label="laserTexts" id="laserTexts" style="display:inline"/>
+</svg>
